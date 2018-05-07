@@ -6,3 +6,7 @@ The dataset is too large. Please download from https://www.kaggle.com/c/dstl-sat
 Put the sixteen_band image folder and three_band image folder under data folder.
 
 2. Check file path if you get error. 
+
+
+Copyright
+
